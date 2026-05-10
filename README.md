@@ -1,4 +1,16 @@
-GenAI DevOps Chatbot API
+GenAI DevOps Chatbot API:
+
+### 🚀 Project Demo
+<p align="center">
+  <strong>API Request & Response:</strong><br>
+  <img src="https://github.com/user-attachments/assets/e8c8e4c5-bd59-47f2-976e-50d91e2fd90a" width="100%" />
+</p>
+
+<p align="center">
+  <strong>Deployment Logs:</strong><br>
+  <img src="https://github.com/user-attachments/assets/4659cc3f-6315-4b1c-a244-bce2c498d3b1" width="100%" />
+</p>
+
 This project is a high-performance Chatbot API built with FastAPI and powered by Groq (Llama 3).
 It is fully containerised using Docker and features an automated CI/CD pipeline via GitHub Actions.
 
