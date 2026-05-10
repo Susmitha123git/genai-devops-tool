@@ -41,3 +41,6 @@ Environment Management: Uses Environment Variables for secure API key handling.
 CI/CD: Every push to the main branch triggers a GitHub Action to verify code integrity.
 Cloud Hosted: Deployed on AWS EC2.
 demonstrating real-world cloud infrastructure management and security group configuration
+
+ Monitoring & Optimization
+ Used docker stats to monitor resource consumption and ensured a lightweight image by pruning unnecessary libraries from the build process.
